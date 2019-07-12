@@ -1,1 +1,1 @@
-A short presentation on AI and its applications, especially in the Oil & Gas sector.
+A short presentation on AI and its applications in the Oil & Gas sector.
